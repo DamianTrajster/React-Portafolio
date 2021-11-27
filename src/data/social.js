@@ -1,0 +1,26 @@
+export const SocialData=[
+    {
+        id:1,
+        platform:"Github",
+        link:"https://github.com/DamianTrajster",
+        icon:require('../assets/icons/github.png').default,
+    },
+    {
+        id:2,
+        platform:"Linkedin",
+        link:"https://www.linkedin.com/in/damian-trajster/",
+        icon:require('../assets/icons/linkedin.png').default,
+    },
+    {
+        id:3,
+        platform:"Twitter",
+        link:"https://twitter.com/DeimosDamian",
+        icon:require('../assets/icons/twitter.png').default,
+    },
+    {
+        id:4,
+        platform:"WhatsApp",
+        link:"https://api.whatsapp.com/send?phone=5491173604733",
+        icon:require('../assets/icons/whatsapp.png').default,
+    }
+]
